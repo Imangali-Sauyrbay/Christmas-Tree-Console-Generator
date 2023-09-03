@@ -1,0 +1,25 @@
+# Compiled binary files
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Executables
+a.out
+
+# Dependency directories
+# Visual Studio Code settings
+.vscode/
+# Code::Blocks settings
+.cbp/
+# Eclipse settings
+.settings/
+# JetBrains IDE settings
+.idea/
+# NetBeans settings
+nbproject/
+# Visual Studio settings
+.vs/
+# Xcode settings
+.xcodeproj/
